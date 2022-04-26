@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "NETGEAR73";  // Enter SSID here
-const char* password = "curlybreeze875";  //Enter Password here
+const char* ssid = "************";  // Enter SSID here
+const char* password = "************";  //Enter Password here
 
 //const char* ssid = "UCB Wireless";  // Enter SSID here
 //const char* password = "";  //Enter Password here
