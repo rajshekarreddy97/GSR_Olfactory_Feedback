@@ -4,9 +4,6 @@
 const char* ssid = "************";  // Enter SSID here
 const char* password = "************";  //Enter Password here
 
-//const char* ssid = "UCB Wireless";  // Enter SSID here
-//const char* password = "";  //Enter Password here
-
 WiFiUDP Udp;
 unsigned int localUdpPort = 1999;  // local port to listen on
 char packetBuffer[255]; //buffer to hold incoming packet
